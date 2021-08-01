@@ -1,0 +1,1 @@
+This is the file under shouldIgnoredFolder, it should only be shown on separate git init even it was initiated in the upper level
